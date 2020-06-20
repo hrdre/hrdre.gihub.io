@@ -9,6 +9,10 @@ Ansonsten gehören sie zu den Reptilien und haben eine dicke verhornte Haut. Ihr
 * frisst gerne Githuber
 * ausgestorben
 
-##Zitat
+## Zitat
 und er sagte:
 > Lecker, einfach nur lecker.
+
+## Bild
+<img src="https://cdn.pixabay.com/photo/2014/10/13/22/39/t-rex-487639_960_720.jpg"/>
+Quelle: pixabay.com (frei)
